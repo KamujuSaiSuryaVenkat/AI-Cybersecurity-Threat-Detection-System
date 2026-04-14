@@ -217,24 +217,24 @@ http://localhost:8501
 
 ### 📊 Dataset Preview
 
-![Dataset](images/dataset.png)
+![Dataset](assets/dataset.png)
 
 ### ⚙️ Data Preprocessing
 
-![Preprocessing](images/preprocessing.png)
+![Preprocessing](assets/preprocessing.png)
 
 ### 🔍 API Output
 
-![API](images/api_result.png)
+![API](assets/api_result.png)
 
 ### 🛡️ Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ### 📊 Bulk Analysis
 
-![Bulk](images/bulk_report1.png)
-![Bulk](images/bulk_report2.png)
+![Bulk](assets/bulk_report1.png)
+![Bulk](assets/bulk_report2.png)
 
 ---
 
